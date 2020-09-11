@@ -4,9 +4,6 @@ $hi keerthy
 $hi poornesh
 $hi rejul
 
-jeswin here, we are gonna work as a team. Time to start 
-Learning and
-Improve
-our skills.
+Check this out :- https://github.com/Jeswinek/C-hub/projects/1#card-45317531
 
-$best luck
+$Happy learning 
